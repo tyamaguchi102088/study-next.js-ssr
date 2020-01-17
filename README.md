@@ -1,4 +1,4 @@
-## Software Design 2020 1月号に収録されていたNext.jsを使ったシンプルなSSRの例
+### Software Design 2020 1月号に収録されていたNext.jsを使ったシンプルなSSRの例
 
 ### Start Application
 `yarn dev`
